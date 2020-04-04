@@ -1,6 +1,6 @@
 # WarsawJS Meetup: Slides template
 
-:clipboard: Slides for `WarsawJS Meetup`
+Vue 3 is just around the corner. This talk will give you few tips on how to start working with one of its brand new features - Composition API.
 
 ## Preview 🚀
 
