@@ -2,11 +2,11 @@
 
 :clipboard: Slides for `WarsawJS Meetup`
 
-Vue 3 is just around the corner. This talk will give you few tips on how to start working with one of its brand new features - Composition API.
+In the good ol' days of the internet, every website was a static website. Now after years of pushback, static websites are back on the menu. Here's how to make your own blog using Gridsome.
 
 ## Preview 🚀
 
-<https://github.com/slawinski/into-the-vue-3-slides>
+<https://github.com/slawinski/blogging-with-gridsome-slides>
 
 ## Organization logo
 
